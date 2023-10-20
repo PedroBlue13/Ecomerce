@@ -20,7 +20,7 @@ function irParaCheckout(){
     if (Object.keys(idsProdutoCarrinhoComQuantidade).length === 0) {
         return;
     }
-    window.location.href = window.location.origin +"/checkout.html";
+    window.location.href = "/Ecomerce/checkout.html";
 }
 
 

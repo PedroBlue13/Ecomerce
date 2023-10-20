@@ -33,7 +33,7 @@ function finalizarCompra(evento){
    apagarDoLocalStorage("carrinho");
      
    
-   window.location.href = "./pedidos.html";
+   window.location.href = "/Ecomerce/pedidos.html";
 }
 
 
